@@ -1,0 +1,17 @@
+{
+    "teste": {
+        "id": "fc0JIw",
+        "mensagens": [
+            {
+                "username": "Sistema",
+                "msg": "965bb5d6 entrou na sala."
+            },
+            {
+                "username": "Sistema",
+                "msg": "965bb5d6 entrou na sala."
+            }
+        ],
+        "privada": false,
+        "chave": null
+    }
+}

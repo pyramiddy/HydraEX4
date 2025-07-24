@@ -1,0 +1,13 @@
+{
+    "teste": {
+        "id": "rfaAE3",
+        "mensagens": [
+            {
+                "username": "Sistema",
+                "msg": "b7c241fa entrou na sala."
+            }
+        ],
+        "privada": false,
+        "chave": null
+    }
+}
