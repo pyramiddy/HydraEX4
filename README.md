@@ -14,7 +14,7 @@
 > Criado com foco em **liberdade**, **velocidade** e **anonimato**.
 
 ---
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/6ik08wP" data-context="false" ><a href="//imgur.com/a/6ik08wP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ## ⚙️ Funcionalidades
 
 ✅ Criar ou entrar em qualquer sala de bate-papo  
